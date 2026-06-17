@@ -97,5 +97,60 @@
         "thinking": "Refered from Reference file",
         "confidence": "high"
       }
+    },
+    {
+      "from": "dummy1@example.com",
+      "subject": "Sample Subject 1",
+      "body": "Sample body content 1",
+      "ExpectedResult": {
+        "class": "sample",
+        "subclass": "test",
+        "thinking": "Additional dummy record 1",
+        "confidence": "medium"
+      }
+    },
+    {
+      "from": "dummy2@example.com",
+      "subject": "Sample Subject 2",
+      "body": "Sample body content 2",
+      "ExpectedResult": {
+        "class": "sample",
+        "subclass": "test",
+        "thinking": "Additional dummy record 2",
+        "confidence": "medium"
+      }
+    },
+    {
+      "from": "dummy3@example.com",
+      "subject": "Sample Subject 3",
+      "body": "Sample body content 3",
+      "ExpectedResult": {
+        "class": "sample",
+        "subclass": "test",
+        "thinking": "Additional dummy record 3",
+        "confidence": "medium"
+      }
+    },
+    {
+      "from": "dummy4@example.com",
+      "subject": "Sample Subject 4",
+      "body": "Sample body content 4",
+      "ExpectedResult": {
+        "class": "sample",
+        "subclass": "test",
+        "thinking": "Additional dummy record 4",
+        "confidence": "medium"
+      }
+    },
+    {
+      "from": "dummy5@example.com",
+      "subject": "Sample Subject 5",
+      "body": "Sample body content 5",
+      "ExpectedResult": {
+        "class": "sample",
+        "subclass": "test",
+        "thinking": "Additional dummy record 5",
+        "confidence": "medium"
+      }
     }
 ]
