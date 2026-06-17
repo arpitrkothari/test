@@ -1,0 +1,101 @@
+[
+    {
+      "from": "PIMrpaprocreq01@republicservices.com",
+      "subject": "Document Purchase Order",
+      "body": "Review the purchasing document and any files that are attached to the message",
+      "ExpectedResult": {
+        "class": "order",
+        "subclass": "creation",
+        "thinking": "Refered from Reference file",
+        "confidence": "high"
+      }
+    },
+    {
+      "from": "ddorney@owi.com",
+      "subject": "FW: New DEF Order to Process – AMZ PO# ************* - **/**/****",
+      "body": "Hi Diane, We've received a new order for the following items and would like to request your assistance to process it. We have a problem connecting to the OWI portal at the moment. Attached is the screen of how the portal looks on our end. PO#: ************** Order Details: Item 1 Description Title: BlueDEF DEF001 Diesel Exhaust Fluid 55 Gallon Drum Bundle with DU-Most Walnut Hand Scrub Travel Size, 4 oz SKU: DEF001+DM Qty: 1 Customer details: tree line helicopters 367 INDUSTRIAL DR BRISTOL, TN 37620-5438",
+      "ExpectedResult": {
+        "class": "order",
+        "subclass": "creation",
+        "thinking": "Refered from Reference file",
+        "confidence": "high"
+      }
+    },
+    {
+      "from": "dwight@rcwdparts.com",
+      "subject": "Purchase Order ***** from Rancho Cordova Wholesale Distributing",
+      "body": "Vendor: Please review the attached purchase order. Feel free to contact us if you have any questions",
+      "ExpectedResult": {
+        "class": "order",
+        "subclass": "creation",
+        "thinking": "Refered from Reference file",
+        "confidence": "high"
+      }
+    },
+    {
+      "from": "dwight@rcwdparts.com",
+      "subject": "PORDER ***********",
+      "body": "please find attached the new order from Hust Bros. process and confirme",
+      "ExpectedResult": {
+        "class": "order",
+        "subclass": "creation",
+        "thinking": "Refered from Reference file",
+        "confidence": "high"
+      }
+    },
+    {
+      "from": "schylinski@ta-petro.com",
+      "subject": "OPEN ROAD DISTRIBUTING PO# *************",
+      "body": "",
+      "ExpectedResult": {
+        "class": "order",
+        "subclass": "creation",
+        "thinking": "Refered from Reference file",
+        "confidence": "high"
+      }
+    },
+    {
+      "from": "jwojcik@owi.com",
+      "subject": "Sample Order- More Product for Partner",
+      "body": "Hey Team, May I request a sample order of filled/live product for a partner of ours? we will need",
+      "ExpectedResult": {
+        "class": "order",
+        "subclass": "creation",
+        "thinking": "Refered from Reference file",
+        "confidence": "high"
+      }
+    },
+    {
+      "from": "rich@tkcweb.com",
+      "subject": "Omaha DEF load *******",
+      "body": "Please place the attached order for us.",
+      "ExpectedResult": {
+        "class": "order",
+        "subclass": "creation",
+        "thinking": "Refered from Reference file",
+        "confidence": "high"
+      }
+    },
+    {
+      "from": "itgsupport@pfgc.com",
+      "subject": "PO#140-1410150 from CORE-MARK TAMPA OpCo",
+      "body": "Disclaimer: The information transmitted herewith is confidential information intended only for use to the individual or entity to which it is addressed. If the reader of this message is not the intended recipient, you are hereby notified that any review, retransmission, dissemination, distribution, copying or other use of, or taking of any action in reliance upon, this information is strictly prohibited. If you have received this communication in error, please contact the sender and delete the material.",
+      "ExpectedResult": {
+        "class": "order",
+        "subclass": "creation",
+        "thinking": "Refered from Reference file",
+        "confidence": "high"
+      }
+    },
+    {
+      "from": "mmartinez@owi.com",
+      "subject": "PO# C000323607",
+      "body": "",
+      "ExpectedResult": {
+        "class": "order",
+        "subclass": "creation",
+        "thinking": "Refered from Reference file",
+        "confidence": "high"
+      }
+    }
+]
